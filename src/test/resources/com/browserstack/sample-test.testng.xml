@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="First">
+    <test name="FirstTest">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest1">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest2">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest3">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest4">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <!-- <test name="FirstTest5">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test> -->
+    <!-- <test name="FirstTest6">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest7">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest8">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest9">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest10">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest11">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test>
+    <test name="FirstTest12">
+        <classes>
+            <class name="com.browserstack.FirstTest"/>
+        </classes>
+    </test> -->
+
+    <!-- <test name="SecondTest1">
+        <classes>
+            <class name="com.browserstack.SecondTest"/>
+        </classes>
+    </test> 
+
+    <test name="SecondTest2">
+        <classes>
+            <class name="com.browserstack.SecondTest"/>
+        </classes>
+    </test> 
+    <test name="SecondTest3">
+        <classes>
+            <class name="com.browserstack.SecondTest"/>
+        </classes>
+    </test> 
+    <test name="SecondTest4">
+        <classes>
+            <class name="com.browserstack.SecondTest"/>
+        </classes>
+    </test> 
+    <test name="SecondTest5">
+        <classes>
+            <class name="com.browserstack.SecondTest"/>
+        </classes>
+    </test>  -->
+
+</suite>
